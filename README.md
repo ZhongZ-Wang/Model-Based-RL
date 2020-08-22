@@ -1,5 +1,5 @@
 # Model-Based-RL
-这是一个关于基于模型的强化学习的资料，包括这个方向内代码、评论、paper、slide等。
+这是一个有关基于模型的强化学习的资料，包括paper、slide及相关链接等。
 
 文件夹paper几乎涵盖了Model-based RL方向算法的成果和进展（包括几篇综述型），有不少研究人员对MB-RL进行了分类，因为我水平有限，自己的理解不一定准确，没有对paper进行分块处理，但附上以下参考：
 
@@ -20,5 +20,5 @@ https://github.com/krasserm/bayesian-machine-learning
 https://zhuanlan.zhihu.com/p/106889896
 
 
-涉及的paper的源码(作者及其他研究人员)大多可以下面网站找到。
+涉及的paper的源码(作者及其他研究人员)大多可以下面网站找到，某些代码实现也可在github输入关键词搜索得到。
 https://www.paperswithcode.com/
