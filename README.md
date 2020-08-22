@@ -7,7 +7,7 @@ https://zhuanlan.zhihu.com/p/73297138
 https://zhuanlan.zhihu.com/p/72642285
 
 
-文件夹slide中放了几个课程或报告中的资料，其中近期交大张伟楠老师的那个可以着重参考，附讲座视频：
+文件夹slide中放了几个课程或报告中的资料，里面包含对model-based-rl的分类的信息，其中近期交大张伟楠老师的那个可以着重参考，附讲座视频：
 https://www.boyuai.com/elites/course/78eQw4BeCzLos12d/video/1cHg_gzZty0OXkgitR2M6
 
 
